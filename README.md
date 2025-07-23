@@ -103,9 +103,6 @@ Contributions are welcome! Feel free to:
 - Enhance the user interface
 - Add new game modes
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
