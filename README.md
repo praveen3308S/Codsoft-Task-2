@@ -27,6 +27,7 @@ A sophisticated Tic Tac Toe game implementation featuring an AI opponent powered
 1. **Clone the repository**:
    ```bash
    git clone (https://github.com/praveen3308S/Codsoft-Task-2.git)
+   cd Codsoft-Task-2
    ```
 
 2. **Install dependencies**:
